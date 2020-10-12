@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yeonghyeon" alt="#view" />
+  <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeonghyeon-park-25aa97138" alt="linkedin" /></a>
+</p>
+
+## Interest
+* Anomaly Detection & Classification
+
+<p>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
+</p>
 
 <!--
 **YeongHyeon/YeongHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

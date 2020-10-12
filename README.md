@@ -3,9 +3,10 @@
   <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeonghyeon-park-25aa97138" alt="linkedin" /></a>
 </p>
 
-## Interest
+### Interest
 * Anomaly Detection & Classification
 
+### Stat
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
 </p>

@@ -3,7 +3,8 @@
 </p>
 
 <details>
-  <summary>Repositories</summary>
+  <summary>Repositories</summary>  
+  
 ```
 Repositories  
 │

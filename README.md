@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
 </p>
 
+<details>
+  <summary>Repositories</summary>
 ```
 Repositories  
 │
@@ -69,3 +71,4 @@ Repositories
           └── Special Purpose
                └── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN-PyTorch
 ```
+</details>

@@ -65,7 +65,7 @@ Repositories
 │
 └── PyTorch
      └── Generative Model
-          │    ├── Anomaly Detection
+          ├── Anomaly Detection
           │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection-PyTorch
           │    ├── GANomaly: https://github.com/YeongHyeon/GANomaly-PyTorch
           │    └── ConAD: https://github.com/YeongHyeon/ConAD-PyTorch

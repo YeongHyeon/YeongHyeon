@@ -53,7 +53,8 @@ Repositories
 │    │    │    ├── GANomaly: https://github.com/YeongHyeon/GANomaly-TF
 │    │    │    ├── Skip-GANomaly: https://github.com/YeongHyeon/Skip-GANomaly
 │    │    │    ├── ConAD: https://github.com/YeongHyeon/ConAD
-│    │    │    └── MemAE: https://github.com/YeongHyeon/MemAE
+│    │    │    ├── MemAE: https://github.com/YeongHyeon/MemAE
+│    │    │    └── f-AnoGAN: https://github.com/YeongHyeon/f-AnoGAN-TF
 │    │    └── Special Purpose
 │    │         ├── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN
 │    │         └── Context-Encoder: https://github.com/YeongHyeon/Context-Encoder

@@ -58,7 +58,8 @@ Repositories
 │    │    │    └── DGM: https://github.com/YeongHyeon/DGM-TF
 │    │    └── Special Purpose
 │    │         ├── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN
-│    │         └── Context-Encoder: https://github.com/YeongHyeon/Context-Encoder
+│    │         ├── Context-Encoder: https://github.com/YeongHyeon/Context-Encoder
+│    │         └── Sequence-Autoencoder: https://github.com/YeongHyeon/Sequence-Autoencoder
 │    │    
 │    └── Additional Methods
 │         ├── SGDR: https://github.com/YeongHyeon/ResNet-with-SGDR-TF2

@@ -1,7 +1,7 @@
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
 </p>
-
+<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>
 <details>
   <summary>Repositories</summary>  
 

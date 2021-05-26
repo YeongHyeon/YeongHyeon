@@ -10,21 +10,25 @@ Repositories
 │
 ├── TensorFlow
 │    ├── Publications (Sorted by year in ascending order)
-│    │    ├── Comparison of RNN Encoder-Decoder Models for Anomaly Detection
-│    │    │    └── ArXiv (2018): https://arxiv.org/abs/1807.06576
-│    │    ├── Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine
-│    │    │    ├── MDPI (2018): https://www.mdpi.com/1424-8220/18/10/3573
-│    │    │    └── Source: https://github.com/YeongHyeon/FARED_for_Anomaly_Detection
-│    │    ├── Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent
-│    │    │    ├── IEEJ (2018): https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927
-│    │    │    └── Source: https://github.com/YeongHyeon/Arrhythmia_Detection_RNN_and_Lyapunov
+│    │    ├── Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise
+│    │    │    └── ArXiv (2021): https://arxiv.org/abs/2103.12992
+│    │    ├── Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability
+│    │    │    └── ArXiv (2021): https://arxiv.org/abs/2104.04120
+│    │    ├── Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network
+│    │    │    └── ETRIJ (2020): in publishing
+│    │    ├── The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method
+│    │    │    └── IEEJ (2019): https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225
 │    │    ├── Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG
 │    │    │    ├── IEEE Access (2018): https://ieeexplore.ieee.org/abstract/document/8771175
 │    │    │    └── Source: https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection
-│    │    ├── The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method
-│    │    │    └── IEEJ (2019): https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225
-│    │    └── Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network
-│    │         └── ETRIJ (2020): in publishing
+│    │    ├── Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent
+│    │    │    ├── IEEJ (2018): https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927
+│    │    │    └── Source: https://github.com/YeongHyeon/Arrhythmia_Detection_RNN_and_Lyapunov
+│    │    ├── Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine
+│    │    │    ├── MDPI (2018): https://www.mdpi.com/1424-8220/18/10/3573
+│    │    │    └── Source: https://github.com/YeongHyeon/FARED_for_Anomaly_Detection
+│    │    └── Comparison of RNN Encoder-Decoder Models for Anomaly Detection
+│    │         └── ArXiv (2018): https://arxiv.org/abs/1807.06576
 │    │    
 │    ├── Discriminative Model
 │    │    ├── Series Inception

@@ -27,7 +27,7 @@ Repositories
 ├── TensorFlow 
 │    ├── Publications (Sorted by year in ascending order)
 │    │    ├── Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG
-│    │    │    ├── IEEE Access (2018): https://ieeexplore.ieee.org/abstract/document/8771175
+│    │    │    ├── IEEE Access (2019): https://ieeexplore.ieee.org/abstract/document/8771175
 │    │    │    └── Source: https://github.com/YeongHyeon/Enhancementing-Method-for-STEMI-Detection
 │    │    ├── Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent
 │    │    │    ├── IEEJ (2018): https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927

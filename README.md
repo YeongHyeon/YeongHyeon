@@ -85,3 +85,15 @@ Repositories
                └── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN-PyTorch
 ```
 </details>
+
+<details>
+  <summary>Kaggle</summary>  
+
+#### Code
+* :3rd_place_medal: https://www.kaggle.com/yeonghyeon/riiid-step-by-step-guide-for-beginner-eda-pytorch  
+* :3rd_place_medal: https://www.kaggle.com/yeonghyeon/easy-to-run-keras-full-package-including-eda  
+* :3rd_place_medal: https://www.kaggle.com/yeonghyeon/shopee-easy-to-run  
+* :3rd_place_medal: https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf  
+* :satisfied:	https://www.kaggle.com/yeonghyeon/step-by-step-mnist-full-package-eda-tensorflow  
+* :satisfied:	https://www.kaggle.com/yeonghyeon/step-by-step-herbarium-2021  
+</details>

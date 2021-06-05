@@ -5,16 +5,18 @@
 <a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>  
 
 <details>
-  <summary>Publications</summary>  
+  <summary>Papers</summary>  
 
 #### SCIE
-* [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a>
-* [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a>
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a>
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a>
 * [2019] <a href="https://ieeexplore.ieee.org/abstract/document/8771175">Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG</a>
 * [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a>
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a>
+
+### arXiv
+* [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a>
+* [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a>
 * [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a>
 </details>
 

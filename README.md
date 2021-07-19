@@ -103,4 +103,8 @@ Repositories
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf">SETI, step by step guide for Beginner/EDA/TF</a> @ SETI Breakthrough Listen - E.T. Signal Search  
 * :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/step-by-step-mnist-full-package-eda-tensorflow">Step-by-Step MNIST | Full Package, EDA, TensorFlow</a> @ Digit Recognizer  
 * :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/step-by-step-herbarium-2021">Step-by-Step, Herbarium 2021!</a> @ Herbarium 2021 - Half-Earth Challenge - FGVC8  
+* :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/convert-dicom-to-numpy-array-super-simple">Convert DICOM to Numpy Array (Super Simple)</a> @ RSNA-MICCAI Brain Tumor Radiogenomic Classification  
+
+#### Dataset
+* :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/rsnamiccai-btrc2021">RSNA-MICCAI BTRC2021</a> @ RSNA-MICCAI Brain Tumor Radiogenomic Classification  
 </details>

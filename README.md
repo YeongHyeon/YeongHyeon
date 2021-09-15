@@ -48,6 +48,8 @@ Repositories
 │    │    │    ├── WRN: https://github.com/YeongHyeon/WideResNet_WRN-TF2
 │    │    │    ├── ResNeSt: https://github.com/YeongHyeon/ResNeSt-TF2
 │    │    │    └── ReXNet: https://github.com/YeongHyeon/ReXNet-TF2
+│    │    ├── Series Bayesian / Gaussian
+│    │    │    └── SWA-Gaussian: https://github.com/YeongHyeon/SWA-Gaussian-TF2
 │    │    ├── Series Graph
 │    │    │    └── PIPGCN: https://github.com/YeongHyeon/PIPGCN-TF2
 │    │    └── Ohters

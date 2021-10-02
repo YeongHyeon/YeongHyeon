@@ -73,7 +73,8 @@ Repositories
 │    │    │    ├── MemAE: https://github.com/YeongHyeon/MemAE
 │    │    │    ├── f-AnoGAN: https://github.com/YeongHyeon/f-AnoGAN-TF
 │    │    │    ├── DGM: https://github.com/YeongHyeon/DGM-TF
-│    │    │    └── ADAE: https://github.com/YeongHyeon/ADAE-TF
+│    │    │    ├── ADAE: https://github.com/YeongHyeon/ADAE-TF
+│    │    │    └── Normalizing Flow: https://github.com/YeongHyeon/Normalizing-Flow-TF2
 │    │    └── Special Purpose
 │    │         ├── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN
 │    │         ├── Context-Encoder: https://github.com/YeongHyeon/Context-Encoder

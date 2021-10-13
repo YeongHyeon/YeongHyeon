@@ -64,7 +64,8 @@ Repositories
 │    │    ├── Generals
 │    │    │    ├── GAN: https://github.com/YeongHyeon/GAN-TF
 │    │    │    ├── WGAN: https://github.com/YeongHyeon/WGAN-TF
-│    │    │    └── CGAN: https://github.com/YeongHyeon/CGAN-TF
+│    │    │    ├── CGAN: https://github.com/YeongHyeon/CGAN-TF
+│    │    │    └── Normalizing Flow: https://github.com/YeongHyeon/Normalizing-Flow-TF2
 │    │    ├── Anomaly Detection
 │    │    │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection
 │    │    │    ├── GANomaly: https://github.com/YeongHyeon/GANomaly-TF
@@ -73,8 +74,7 @@ Repositories
 │    │    │    ├── MemAE: https://github.com/YeongHyeon/MemAE
 │    │    │    ├── f-AnoGAN: https://github.com/YeongHyeon/f-AnoGAN-TF
 │    │    │    ├── DGM: https://github.com/YeongHyeon/DGM-TF
-│    │    │    ├── ADAE: https://github.com/YeongHyeon/ADAE-TF
-│    │    │    └── Normalizing Flow: https://github.com/YeongHyeon/Normalizing-Flow-TF2
+│    │    │    └── ADAE: https://github.com/YeongHyeon/ADAE-TF
 │    │    └── Special Purpose
 │    │         ├── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN
 │    │         ├── Context-Encoder: https://github.com/YeongHyeon/Context-Encoder

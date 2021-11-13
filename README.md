@@ -14,6 +14,9 @@
 * [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a>
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a>
 
+#### International Conference
+* [2021] <a href="">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a>
+
 #### arXiv
 * [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a>
 * [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a>

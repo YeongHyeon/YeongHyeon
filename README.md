@@ -1,6 +1,5 @@
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/yeonghyeon/notebook/light" />
 </p> 
   
 <a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>  

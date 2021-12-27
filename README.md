@@ -15,7 +15,7 @@
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a>
 
 #### International Conference
-* [2021] <a href="">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a>
+* [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a>
 
 #### arXiv
 * [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a>

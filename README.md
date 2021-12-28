@@ -68,7 +68,8 @@ Repositories
 │    │    │    ├── GAN: https://github.com/YeongHyeon/GAN-TF
 │    │    │    ├── WGAN: https://github.com/YeongHyeon/WGAN-TF
 │    │    │    ├── CGAN: https://github.com/YeongHyeon/CGAN-TF
-│    │    │    └── Normalizing Flow: https://github.com/YeongHyeon/Normalizing-Flow-TF2
+│    │    │    ├── Normalizing Flow: https://github.com/YeongHyeon/Normalizing-Flow-TF2
+│    │    │    └── Transformer: https://github.com/YeongHyeon/Transformer-TF2
 │    │    ├── Anomaly Detection
 │    │    │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection
 │    │    │    ├── GANomaly: https://github.com/YeongHyeon/GANomaly-TF

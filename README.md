@@ -19,6 +19,7 @@
 * [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a>
 
 #### arXiv
+* [2022] <a href="https://arxiv.org/abs/2201.01416">Latent Vector Expansion using Autoencoder for Anomaly Detection</a>. 
 * [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a>
 * [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a>
 </details>

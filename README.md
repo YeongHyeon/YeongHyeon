@@ -8,20 +8,26 @@
   <summary>Papers</summary>  
 
 #### SCIE
-* [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a>
-* [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a>
-* [2019] <a href="https://ieeexplore.ieee.org/abstract/document/8771175">Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG</a>
-* [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a>
-* [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a>
+* [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a> :pencil2: First Author
+* [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a> :pencil2: First Author
+* [2019] <a href="https://ieeexplore.ieee.org/abstract/document/8771175">Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG</a> :pencil2: First Author
+* [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a> :pencil2: First Author
+* [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a> :pencil2: First Author
 
 #### International Conference
-* [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a>  
-* [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a>
+* [2022] <a href="">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author  
+* [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author  
+* [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a> :pencil2: First Author
+  
+#### Domestic Conference
+* [2022] <a href="https://arxiv.org/abs/2201.01416">Latent Vector Expansion using Autoencoder for Anomaly Detection</a>  
+* [2022] <a href="https://arxiv.org/abs/2112.07214">Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection</a> :pencil2: First Author  
+* [2022] <a href="">Attention 기반의 이상 부위 자동 labeling 기법 (Attention-based Automatic Labeling Method for Anomaly Area)</a>  
+* [2021] <a href="https://arxiv.org/abs/2107.08790">Anomaly Detection Based on Multiple-Hypothesis Autoencoder</a>  
+* [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a> :pencil2: First Author  
 
 #### arXiv
-* [2022] <a href="https://arxiv.org/abs/2201.01416">Latent Vector Expansion using Autoencoder for Anomaly Detection</a>. 
-* [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a>
-* [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a>
+* [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a> :pencil2: First Author  
 </details>
 
 <details>

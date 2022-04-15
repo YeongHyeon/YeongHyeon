@@ -68,7 +68,8 @@ Repositories
 │    │         ├── GhostNet: https://github.com/YeongHyeon/GhostNet
 │    │         ├── Network-in-Network: https://github.com/YeongHyeon/Network-in-Network-TF2
 │    │         ├── Shake-Shake Regularization: https://github.com/YeongHyeon/Shake-Shake
-│    │         └── MNIST Attention Map: https://github.com/YeongHyeon/MNIST_AttentionMap
+│    │         ├── MNIST Attention Map: https://github.com/YeongHyeon/MNIST_AttentionMap
+│    │         └── MLP-Mixer: https://github.com/YeongHyeon/MLP-Mixer-TF2
 │    │    
 │    ├── Generative Model
 │    │    ├── Generals

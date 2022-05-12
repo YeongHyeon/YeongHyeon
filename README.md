@@ -16,7 +16,7 @@
 
 #### International Conference
 * [2022] <a href="https://ieeexplore.ieee.org/abstract/document/9750784">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author  
-* [2021] <a href="https://arxiv.org/abs/2103.12992">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author  
+* [2021] <a href="https://ieeexplore.ieee.org/document/9768853">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author  
 * [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a> :pencil2: First Author
   
 #### Domestic Conference

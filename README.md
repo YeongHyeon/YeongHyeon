@@ -8,6 +8,7 @@
   <summary>Papers</summary>  
 
 #### SCIE
+* [2022] <a href="https://doi.org/10.1002/tee.23672">Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> :pencil2: First Author  
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a> :pencil2: First Author
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a> :pencil2: First Author
 * [2019] <a href="https://ieeexplore.ieee.org/abstract/document/8771175">Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG</a> :pencil2: First Author

@@ -28,6 +28,7 @@
 * [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a> :pencil2: First Author  
 
 #### arXiv
+* [2022] <a href="https://arxiv.org/abs/2210.11068">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author
 * [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a> :pencil2: First Author  
 </details>
 

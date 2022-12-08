@@ -15,7 +15,8 @@
 * [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a> :pencil2: First Author
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a> :pencil2: First Author
 
-#### International Conference
+#### International Conference. 
+* [2023] <a href="https://arxiv.org/abs/2210.11068">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author  
 * [2022] <a href="https://ieeexplore.ieee.org/abstract/document/9750784">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author  
 * [2021] <a href="https://ieeexplore.ieee.org/document/9768853">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author  
 * [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a> :pencil2: First Author

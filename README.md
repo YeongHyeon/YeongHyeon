@@ -101,6 +101,9 @@ Repositories
 │         └── ArcFace: https://github.com/YeongHyeon/ArcFace-TF2
 │
 └── PyTorch
+     ├── Discriminative Model
+     │    └── Ohters
+     │         └── MLP-Mixer: https://github.com/YeongHyeon/MLP-Mixer-PyTorch
      └── Generative Model
           ├── Anomaly Detection
           │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection-PyTorch

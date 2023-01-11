@@ -109,7 +109,8 @@ Repositories
           ├── Anomaly Detection
           │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection-PyTorch
           │    ├── GANomaly: https://github.com/YeongHyeon/GANomaly-PyTorch
-          │    └── ConAD: https://github.com/YeongHyeon/ConAD-PyTorch
+          │    ├── ConAD: https://github.com/YeongHyeon/ConAD-PyTorch
+          │    └── RIAD: https://github.com/YeongHyeon/RIAD-PyTorch
           └── Special Purpose
                └── SRCNN: https://github.com/YeongHyeon/Super-Resolution_CNN-PyTorch
 ```

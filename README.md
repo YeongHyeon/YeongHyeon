@@ -9,6 +9,7 @@
   <summary>Papers</summary>  
 
 #### SCIE
+* [2023] <a href="">Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling</a> :pencil2: First Author  
 * [2022] <a href="https://doi.org/10.1002/tee.23672">Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> :pencil2: First Author  
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a> :pencil2: First Author
 * [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a> :pencil2: First Author
@@ -16,7 +17,7 @@
 * [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a> :pencil2: First Author
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a> :pencil2: First Author
 
-#### International Conference. 
+#### International Conference
 * [2023] <a href="https://arxiv.org/abs/2210.11068">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author (oral)  
 * [2022] <a href="https://ieeexplore.ieee.org/abstract/document/9750784">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author (virtual oral)  
 * [2021] <a href="https://ieeexplore.ieee.org/document/9768853">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author (poster)  

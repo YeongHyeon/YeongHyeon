@@ -3,7 +3,7 @@
 <!--   <img src="https://streak-stats.demolab.com/?user=YeongHyeon" alt="stat" /> -->
 </p> 
   
-<a href="https://github.com/YeongHyeon/YeongHyeon/blob/main/CV_YeongHyeon.pdf">CV</a>, <a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>  
+<a href="https://scholar.google.com/citations?user=cZq6j0MAAAAJ&hl=en">Google Scholar</a>  
 
 <details>
   <summary>Papers</summary>  

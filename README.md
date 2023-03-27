@@ -18,6 +18,7 @@
 * [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a> :pencil2: First Author
 
 #### International Conference
+* [2023] <a href="">Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables</a> :pencil2: First Author (virtual oral)  
 * [2023] <a href="https://ieeexplore.ieee.org/document/10066697">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author (oral)  
 * [2022] <a href="https://ieeexplore.ieee.org/document/9750784">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author (virtual oral)  
 * [2021] <a href="https://ieeexplore.ieee.org/document/9768853">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author (poster)  

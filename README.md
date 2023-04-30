@@ -9,31 +9,35 @@
   <summary>Papers</summary>  
 
 #### SCIE
-* [2023] <a href="https://ieeexplore.ieee.org/document/10065567">Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling</a> :pencil2: First Author  
-* [2022] <a href="https://doi.org/10.1002/tee.23672">Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> :pencil2: First Author  
-* [2020] <a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network</a> :pencil2: First Author
-* [2020] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method</a> :pencil2: First Author
-* [2019] <a href="https://ieeexplore.ieee.org/abstract/document/8771175">Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG</a> :pencil2: First Author
-* [2019] <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent</a> :pencil2: First Author
-* [2018] <a href="https://www.mdpi.com/1424-8220/18/10/3573">Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine</a> :pencil2: First Author
-
+* [2023] Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>]  
+* [2022] Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
+* [2020] Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network [<a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">paper</a>]  
+* [2020] The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">paper</a>]  
+* [2019] Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG [<a href="https://ieeexplore.ieee.org/abstract/document/8771175">paper</a>]  
+* [2019] Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">paper</a>]  
+* [2018] Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
+  
 #### International Conference
-* [2023] <a href="">Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables</a> :pencil2: First Author (virtual oral)  
-* [2023] <a href="https://ieeexplore.ieee.org/document/10066697">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author (oral)  
-* [2022] <a href="https://ieeexplore.ieee.org/document/9750784">Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?</a> :pencil2: First Author (virtual oral)  
-* [2021] <a href="https://ieeexplore.ieee.org/document/9768853">Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise</a> :pencil2: First Author (poster)  
-* [2021] <a href="https://ieeexplore.ieee.org/document/9645739">Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device</a> :pencil2: First Author (poster)  
+* [2023] Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables [<a href="">paper</a>][<a href="">slide</a>]  
+* [2023] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="">slide</a>]  
+* [2022] Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency? [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="">slide</a>]  
+* [2021] Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>][<a href="">poster</a>]  
+* [2021] Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>][<a href="">poster</a>]  
   
 #### Domestic Conference
-* [2022] <a href="https://arxiv.org/abs/2201.01416">Latent Vector Expansion using Autoencoder for Anomaly Detection</a>  
-* [2022] <a href="https://arxiv.org/abs/2112.07214">Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection</a> :pencil2: First Author  
-* [2022] <a href="">Attention 기반의 이상 부위 자동 labeling 기법 (Attention-based Automatic Labeling Method for Anomaly Area)</a>  
-* [2021] <a href="https://arxiv.org/abs/2107.08790">Anomaly Detection Based on Multiple-Hypothesis Autoencoder</a>  
-* [2021] <a href="https://arxiv.org/abs/2104.04120">Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability</a> :pencil2: First Author  
+* [2023] 재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법 [<a href="">paper</a>][<a href="">poster</a>]  
+* [2023] 단안 영상 깊이 추정을 활용하는 객체 변환 합성 [<a href="">paper</a>][<a href="">poster</a>]  
+* [2023] 양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환 [<a href="">paper</a>][<a href="">poster</a>]  
+* [2023] Contrastive learning 에서 positive sample 의 선정에 대한 기법 [<a href="">paper</a>][<a href="">poster</a>]  
+* [2022] Latent Vector Expansion using Autoencoder for Anomaly Detection [<a href="https://arxiv.org/abs/2201.01416">paper</a>][<a href="">poster</a>]  
+* [2022] Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection [<a href="https://arxiv.org/abs/2112.07214">paper</a>][<a href="">poster</a>]  
+* [2022] Attention 기반의 이상 부위 자동 labeling 기법 (Attention-based Automatic Labeling Method for Anomaly Area) [<a href="">paper</a>][<a href="">poster</a>]  
+* [2021] Anomaly Detection Based on Multiple-Hypothesis Autoencoder [<a href="https://arxiv.org/abs/2107.08790">paper</a>][<a href="">poster</a>]  
+* [2021] Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability [<a href="https://arxiv.org/abs/2104.04120">paper</a>][<a href="">poster</a>]  
 
 #### arXiv
-* [2022] <a href="https://arxiv.org/abs/2210.11068">Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance</a> :pencil2: First Author
-* [2018] <a href="https://arxiv.org/abs/1807.06576">Comparison of RNN Encoder-Decoder Models for Anomaly Detection</a> :pencil2: First Author  
+* [2022] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://arxiv.org/abs/2210.11068">paper</a>][<a href="">poster</a>]  
+* [2018] Comparison of RNN Encoder-Decoder Models for Anomaly Detection [<a href="https://arxiv.org/abs/1807.06576">paper</a>][<a href="">poster</a>]  
 </details>
 
 <details>

@@ -19,8 +19,8 @@
   
 #### International Conference
 * [2023] Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables [<a href="">paper</a>][<a href="">slide</a>]  
-* [2023] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/BigComp2023.pdf">slide</a>]  
-* [2022] Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency? [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="">slide</a>]  
+* [2023] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023_IEEE_BigComp.pdf">slide</a>]  
+* [2022] Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency? [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2022_IEEE_TPEC.pdf">slide</a>]  
 * [2021] Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>][<a href="">poster</a>]  
 * [2021] Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>][<a href="">poster</a>]  
   

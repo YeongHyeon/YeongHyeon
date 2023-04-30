@@ -9,35 +9,34 @@
   <summary>Papers</summary>  
 
 #### SCIE
-* [2023] Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>]  
-* [2022] Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
-* [2020] Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network [<a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">paper</a>]  
-* [2020] The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">paper</a>]  
-* [2019] Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG [<a href="https://ieeexplore.ieee.org/abstract/document/8771175">paper</a>]  
-* [2019] Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">paper</a>]  
-* [2018] Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
+* [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Uju Gim, and Juneho Yi. Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>]  
+* [2022] <strong>YeongHyeon Park</strong> and JongHee Jung. Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection</a> [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
+* [2020] <strong>YeongHyeon Park</strong>, Won Seok Park, and Yeong Beom Kim. Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network [<a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">paper</a>]  
+* [2020] <strong>YeongHyeon Park</strong>, Il Dong Yun, and Si-Hyuck Kang. The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">paper</a>]  
+* [2019] <strong>YeongHyeon Park</strong>, Il Dong Yun, and Si-Hyuck Kang. Preprocessing Method for Performance Enhancement in CNN-based STEMI Detection from 12-lead ECG [<a href="https://ieeexplore.ieee.org/abstract/document/8771175">paper</a>]  
+* [2019] <strong>YeongHyeon Park</strong> and Il Dong Yun. Arrhythmia detection in electrocardiogram based on recurrent neural network encoder–decoder with Lyapunov exponent [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22927">paper</a>]  
+* [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
   
 #### International Conference
-* [2023] Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables [paper][slide]  
-* [2023] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023_IEEE_BigComp.pdf">slide</a>]  
-* [2022] Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency? [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2022_IEEE_TPEC.pdf">slide</a>]  
-* [2021] Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>]  
-* [2021] Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
+* [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Won Seok Park, and Juneho Yi. Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables [paper][slide]  
+* [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, and Won Seok Park. Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023_IEEE_BigComp.pdf">slide</a>]  
+* [2022] <strong>YeongHyeon Park</strong>, Myung Jin Kim, and Uju Gim. Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency? [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2022_IEEE_TPEC.pdf">slide</a>]  
+* [2021] <strong>YeongHyeon Park</strong> and JongHee Jung. Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>]  
+* [2021] <strong>YeongHyeon Park</strong>, and Myung Jin Kim. Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
   
 #### Domestic Conference
-* [2023] 재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법  
-* [2023] 단안 영상 깊이 추정을 활용하는 객체 변환 합성  
-* [2023] 양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환  
-* [2023] 적대적 학습에서 긍정 샘플의 선정에 대한 기법  
-* [2022] Latent Vector Expansion using Autoencoder for Anomaly Detection [<a href="https://arxiv.org/abs/2201.01416">paper</a>]  
-* [2022] Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection [<a href="https://arxiv.org/abs/2112.07214">paper</a>]  
-* [2022] Attention 기반의 이상 부위 자동 labeling 기법 (Attention-based Automatic Labeling Method for Anomaly Area)  
-* [2021] Anomaly Detection Based on Multiple-Hypothesis Autoencoder [<a href="https://arxiv.org/abs/2107.08790">paper</a>]  
-* [2021] Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability [<a href="https://arxiv.org/abs/2104.04120">paper</a>]  
+* [2023] <strong>박영현</strong>, 김명진, 박원석, 이준호. 재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법  
+* [2023] 강성호, 박현규, 정현호, <strong>박영현</strong>, 배세호, 이준호. 단안 영상 깊이 추정을 활용하는 객체 변환 합성  
+* [2023] 박현규, 배세호, <strong>박영현</strong>, 강성호, 이준호. 양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환  
+* [2023] 김명진, <strong>박영현</strong>, 윤일동. 적대적 학습에서 긍정 샘플의 선정에 대한 기법  
+* [2022] UJu Gim and <strong>YeongHyeon Park</strong>. Latent Vector Expansion using Autoencoder for Anomaly Detection [<a href="https://arxiv.org/abs/2201.01416">paper</a>]  
+* [2022] <strong>YeongHyeon Park</strong>, JoonSung Lee, Myung Jin Kim, and Wonseok Park. Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection [<a href="https://arxiv.org/abs/2112.07214">paper</a>]  
+* [2022] 김명진, <strong>박영현</strong>. Attention 기반의 이상 부위 자동 labeling 기법  
+* [2021] <strong>YeongHyeon Park</strong>, JoonSung Lee, and Wonseok Park. Self-Weighted Ensemble Method to Adjust the Influence of Individual Models based on Reliability [<a href="https://arxiv.org/abs/2104.04120">paper</a>]  
 
 #### arXiv
-* [2022] Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance [<a href="https://arxiv.org/abs/2210.11068">paper</a>]  
-* [2018] Comparison of RNN Encoder-Decoder Models for Anomaly Detection [<a href="https://arxiv.org/abs/1807.06576">paper</a>]  
+* [2022] <strong>YeongHyeon Park</strong>. Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model [<a href="https://arxiv.org/abs/2201.05748">paper</a>]  
+* [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. Comparison of RNN Encoder-Decoder Models for Anomaly Detection [<a href="https://arxiv.org/abs/1807.06576">paper</a>]  
 </details>
 
 <details>

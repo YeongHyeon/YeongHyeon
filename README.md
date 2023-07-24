@@ -113,7 +113,8 @@ Repositories
      ├── Discriminative Model
      │    └── Ohters
      │         ├── MLP-Mixer: https://github.com/YeongHyeon/MLP-Mixer-PyTorch
-     │         └── GhostNet: https://github.com/YeongHyeon/GhostNet-PyTorch
+     │         ├── GhostNet: https://github.com/YeongHyeon/GhostNet-PyTorch
+     │         └── DINO: https://github.com/YeongHyeon/DINO_MNIST-PyTorch
      └── Generative Model
           ├── Anomaly Detection
           │    ├── CVAE (Convolution & Variational): https://github.com/YeongHyeon/CVAE-AnomalyDetection-PyTorch

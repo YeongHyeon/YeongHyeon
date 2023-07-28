@@ -130,6 +130,7 @@ Repositories
   <summary>Kaggle</summary>  
 
 #### Notebooks Expert <a href="https://www.kaggle.com/yeonghyeon/notebooks">:mortar_board:</a>
+* :3rd_place_medal: <a href="https://www.kaggle.com/code/yeonghyeon/rsna23-easy-dicom-confirmation-volume-generation">RSNA23 EASY DICOM Confirmation & Volume Generation</a> @ RSNA 2023 Abdominal Trauma Detection   
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/riiid-step-by-step-guide-for-beginner-eda-pytorch">Riiid! step by step guide for Beginner/EDA/PyTorch</a> @ Riiid Answer Correctness Prediction   
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/easy-to-run-keras-full-package-including-eda">Easy to run, Keras Full Package! (including EDA)</a> @ [T-Academy X KaKr] 성인 인구조사 소득 예측 대회  
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/shopee-easy-to-run">Shopee, Easy to Run!</a> @ Shopee - Price Match Guarantee  

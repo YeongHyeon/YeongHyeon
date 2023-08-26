@@ -18,6 +18,7 @@
 * [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. <strong>"Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine"</strong> [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
   
 #### International Conference
+* [2023] <strong>YeongHyeon Park</strong>, Uju Gim, and Myung Jin Kim. <strong>"Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2307.04298">arXiv</a>]  
 * [2023] Sungho Kang, Hyunkyu Park, <strong>YeongHyeon Park</strong>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting"</strong> [paper]  
 * [2023] Hyunkyu Park, Sungho Kang, <strong>YeongHyeon Park</strong>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Unsupervised Image-to-Image Translation Based on Bidirectional Style Transfer"</strong> [paper]  
 * [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Won Seok Park, and Juneho Yi. <strong>"Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables"</strong> [paper][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-SIST.pdf">slide</a>]  
@@ -37,7 +38,6 @@
 * [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  
 
 #### arXiv
-* [2023] <strong>YeongHyeon Park</strong>, Uju Gim, and Myung Jin Kim. <strong>"Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2307.04298">arXiv</a>]  
 * [2022] <strong>YeongHyeon Park</strong>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  
 * [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. <strong>"Comparison of RNN Encoder-Decoder Models for Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/1807.06576">arXiv</a>]  
 </details>

@@ -25,7 +25,7 @@
 * [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, and Won Seok Park. <strong>"Frequency of Interest-based Noise Attenuation Method to Improve Anomaly Detection Performance"</strong> [<a href="https://ieeexplore.ieee.org/document/10066697">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023_IEEE_BigComp.pdf">slide</a>]  
 * [2022] <strong>YeongHyeon Park</strong>, Myung Jin Kim, and Uju Gim. <strong>"Attention! Is Recycling Artificial Neural Network Effective for Maintaining Renewable Energy Efficiency?"</strong> [<a href="https://ieeexplore.ieee.org/document/9750784">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2022_IEEE_TPEC.pdf">slide</a>]  
 * [2021] <strong>YeongHyeon Park</strong> and JongHee Jung. <strong>"Non-Compression Auto-Encoder for Detecting Road Surface Abnormality via Vehicle Driving Noise"</strong> [<a href="https://ieeexplore.ieee.org/document/9768853">paper</a>]  
-* [2021] <strong>YeongHyeon Park</strong>, and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device"</strong> [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
+* [2021] <strong>YeongHyeon Park</strong> and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device"</strong> [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
   
 #### Domestic Conference
 * [2023] <strong>박영현</strong>, 김명진, 박원석, 이준호. <strong>"재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법"</strong>  

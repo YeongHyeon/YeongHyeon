@@ -32,7 +32,7 @@
 * [2023] 강성호, 박현규, 정현호, <strong>박영현</strong>, 배세호, 이준호. <strong>"단안 영상 깊이 추정을 활용하는 객체 변환 합성"</strong>  
 * [2023] 박현규, 배세호, <strong>박영현</strong>, 강성호, 이준호. <strong>"양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환"</strong>  
 * [2023] 김명진, <strong>박영현</strong>, 윤일동. <strong>"적대적 학습에서 긍정 샘플의 선정에 대한 기법"</strong>  
-* [2022] 김우주 <strong>박영현</strong>. <strong>"이상 탐지를 위한 오토인코더 기반 잠재 벡터 확장"</strong> [<a href="https://arxiv.org/abs/2201.01416">arXiv</a>]  
+* [2022] 김우주, <strong>박영현</strong>. <strong>"이상 탐지를 위한 오토인코더 기반 잠재 벡터 확장"</strong> [<a href="https://arxiv.org/abs/2201.01416">arXiv</a>]  
 * [2022] <strong>박영현</strong>, 이준성, 김명진, 박원석. <strong>"주행 소음 기반 도로 이상탐지 성능 향상을 위한 주행 이벤트 추출 및 노이즈 감쇄 방법"</strong> [<a href="https://arxiv.org/abs/2112.07214">arXiv</a>]  
 * [2022] 김명진, <strong>박영현</strong>. <strong>"Attention 기반의 이상 부위 자동 labeling 기법"</strong>  
 * [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  

@@ -18,7 +18,7 @@
 * [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. <strong>"Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine"</strong> [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
   
 #### International Conference
-* [2023] <strong>YeongHyeon Park</strong>, Uju Gim, and Myung Jin Kim. <strong>"Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2307.04298">arXiv</a>][slide]  
+* [2023] <strong>YeongHyeon Park</strong>, Uju Gim, and Myung Jin Kim. <strong>"Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2307.04298">arXiv</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-ICTC.pdf">slide</a>]  
 * [2023] Sungho Kang, Hyunkyu Park, <strong>YeongHyeon Park</strong>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting"</strong> [paper]  
 * [2023] Hyunkyu Park, Sungho Kang, <strong>YeongHyeon Park</strong>, Yeonho Lee, Hanbyul Lee, Seho Bae, and Juneho Yi. <strong>"Unsupervised Image-to-Image Translation Based on Bidirectional Style Transfer"</strong> [paper]  
 * [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Won Seok Park, and Juneho Yi. <strong>"Recycling for Recycling: RoI Cropping by Recycling a Pre-trained Attention Mechanism for Accurate Classification of Recyclables"</strong> [<a href="https://ieeexplore.ieee.org/document/10223525">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-SIST.pdf">slide</a>]  

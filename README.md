@@ -30,6 +30,7 @@
 * [2021] <strong>YeongHyeon Park</strong> and Myung Jin Kim. <strong>"Design of Cost-Effective Auto-Encoder for Electric Motor Anomaly Detection in Resource Constrained Edge Device."</strong> IEEE ECICE [<a href="https://ieeexplore.ieee.org/document/9645739">paper</a>]  
   
 #### Domestic Conference
+* [2023] 김재선， 박춘우， 박원석， <strong>박영현</strong>， 조창현， 김동주. <strong>"공정 매개변수 및 열화상 이미지를 기반으로 한 다공성 결함 감지를 위한 고압 다이캐스팅 결함 예측 딥러닝 알고리즘에 관한 연구"</strong> [<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11513747">paper</a>]    
 * [2023] <strong>박영현</strong>, 김명진, 박원석, 이준호. <strong>"재활용품 분류 자동화 효율증대를 위한 어텐션 메커니즘 기반 객체분할 방법"</strong>  
 * [2023] 강성호, 박현규, 정현호, <strong>박영현</strong>, 배세호, 이준호. <strong>"단안 영상 깊이 추정을 활용하는 객체 변환 합성"</strong>  
 * [2023] 박현규, 배세호, <strong>박영현</strong>, 강성호, 이준호. <strong>"양방향 스타일 변환 네트워크를 사용하는 비지도 학습 기반의 도메인 간 영상 변환"</strong>  

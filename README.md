@@ -9,7 +9,7 @@
   <summary>Papers</summary>  
 
 #### SCIE
-* [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Uju Gim, and Juneho Yi. <strong>"Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling."</strong> *IEEE T-IA* [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>]  
+* [2023] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Uju Gim, and Juneho Yi. <strong>"Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling."</strong> *IEEE T-IA* [<a href="https://ieeexplore.ieee.org/document/10065567">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2023-IEEE-TIA.pdf">slide</a>]  
 * [2022] <strong>YeongHyeon Park</strong> and JongHee Jung. <strong>"Efficient Non-Compression Auto-Encoder for Driving Noise-Based Road Surface Anomaly Detection."</strong> *IEEJ T-EEE* [<a href="https://doi.org/10.1002/tee.23672">paper</a>]  
 * [2020] <strong>YeongHyeon Park</strong>, Won Seok Park, and Yeong Beom Kim. <strong>"Anomaly Detection in Particulate Matter Sensor using Hypothesis Pruning Generative Adversarial Network."</strong> *ETRIJ* [<a href="https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2020-0052">paper</a>]  
 * [2020] <strong>YeongHyeon Park</strong>, Il Dong Yun, and Si-Hyuck Kang. <strong>"The CNN-based Coronary Occlusion Site Localization with Effective Preprocessing Method."</strong> *IEEJ T-EEE* [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23225">paper</a>]  

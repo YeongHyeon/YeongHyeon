@@ -139,10 +139,10 @@ Repositories
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/easy-to-run-keras-full-package-including-eda">Easy to run, Keras Full Package! (including EDA)</a> @ [T-Academy X KaKr] 성인 인구조사 소득 예측 대회  
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/shopee-easy-to-run">Shopee, Easy to Run!</a> @ Shopee - Price Match Guarantee  
 * :3rd_place_medal: <a href="https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf">SETI, step by step guide for Beginner/EDA/TF</a> @ SETI Breakthrough Listen - E.T. Signal Search  
-* :3rd_place_medal:	<a href="https://www.kaggle.com/yeonghyeon/convert-dicom-to-numpy-array-super-simple">Convert DICOM to Numpy Array (Super Simple)</a> @ RSNA-MICCAI Brain Tumor Radiogenomic Classification  
+* :3rd_place_medal:	<a href="https://www.kaggle.com/yeonghyeon/convert-dicom-to-numpy-array-super-simple">Convert DICOM to Numpy Array (Super Simple)</a> @ RSNA-MICCAI Brain Tumor Radiogenomic Classification
+* :3rd_place_medal:	<a href="https://www.kaggle.com/code/yeonghyeon/baseline-uad-w-fashion-mnist-dataset/notebook?scriptVersionId=165365517">Baseline UAD (w/ Fashion MNIST dataset)  
 * :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/step-by-step-mnist-full-package-eda-tensorflow">Step-by-Step MNIST | Full Package, EDA, TensorFlow</a> @ Digit Recognizer  
 * :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/step-by-step-herbarium-2021">Step-by-Step, Herbarium 2021!</a> @ Herbarium 2021 - Half-Earth Challenge - FGVC8  
-* :satisfied:	<a href="https://www.kaggle.com/code/yeonghyeon/baseline-uad-w-fashion-mnist-dataset/notebook?scriptVersionId=165365517">Baseline UAD (w/ Fashion MNIST dataset)  
 
 #### Datasets
 * :satisfied:	<a href="https://www.kaggle.com/yeonghyeon/rsnamiccai-btrc2021">RSNA-MICCAI BTRC2021</a> @ RSNA-MICCAI Brain Tumor Radiogenomic Classification  

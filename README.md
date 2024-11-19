@@ -42,7 +42,7 @@
 * [2022] 김명진, <strong>박영현</strong>. <strong>"Attention 기반의 이상 부위 자동 labeling 기법"</strong>  
 * [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  
 
-#### arXiv
+#### Preprints
 * [2024] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Hyeong Seok Kim. <strong>"Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2411.07546">arXiv</a>]  
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>]  
 * [2024] Dongeon Kim, <strong>YeongHyeon Park</strong>. <strong>"Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods"</strong> [<a href="https://arxiv.org/abs/2401.04437">arXiv</a>]  

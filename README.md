@@ -19,6 +19,7 @@
 * [2018] <strong>YeongHyeon Park</strong> and Il Dong Yun. <strong>"Fast Adaptive RNN Encoder–Decoder for Anomaly Detection in SMD Assembly Machine."</strong> *Sensors* [<a href="https://www.mdpi.com/1424-8220/18/10/3573">paper</a>]  
   
 #### International Conference
+* [2025] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Hyeong Seok Kim. <strong>"Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection"</strong> IEEE ISBI _(Accepted)_ [<a href="https://arxiv.org/abs/2411.07546">arXiv</a>]  
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Yeonho Lee, and Juneho Yi. <strong>"Exploiting Connection-Switching U-Net for Enhancing Surface Anomaly Detection."</strong> IEEE ICECIE [<a href="https://ieeexplore.ieee.org/document/10815658">paper</a>][<a href="https://github.com/YeongHyeon/Conference_History/raw/main/2024-IEEE_ICECIE.pdf">slide</a>]
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Hyeonho Jeong, Hyunkyu Park, Hyeong Seok Kim, and Juneho Yi. <strong>"Neural Network Training Strategy to Enhance Anomaly Detection Performance: A Perspective on Reconstruction Loss Amplification."</strong> IEEE ICASSP [<a href="https://ieeexplore.ieee.org/document/10446942">paper</a>][<a href="https://sigport.org/documents/neural-network-training-strategy-enhance-anomaly-detection-performance-perspective">poster</a>]
 * [2024] Hanbyul Lee\*, <strong>YeongHyeon Park\*</strong>, and Juneho Yi. <strong>"Enhancing Defective Solar Panel Detection with Attention-guided Statistical Features using Pre-trained Neural Networks."</strong> IEEE BigComp [<a href="https://ieeexplore.ieee.org/abstract/document/10488244">paper</a>] (* Equal contribution) 
@@ -44,7 +45,6 @@
 * [2021] <strong>박영현</strong>, 이준성, 박원석. <strong>"신뢰도 기반 개별 모델 영향력을 조정하는 자체 가중치 앙상블 방법"</strong> [<a href="https://arxiv.org/abs/2104.04120">arXiv</a>]  
 
 #### Preprints
-* [2024] <strong>YeongHyeon Park</strong>, Myung Jin Kim, Hyeong Seok Kim. <strong>"Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2411.07546">arXiv</a>]  
 * [2024] <strong>YeongHyeon Park</strong>, Sungho Kang, Myung Jin Kim, Hyeong Seok Kim, and Juneho Yi. <strong>"Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection"</strong> [<a href="https://arxiv.org/abs/2407.04597">arXiv</a>]  
 * [2024] Dongeon Kim, <strong>YeongHyeon Park</strong>. <strong>"Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods"</strong> [<a href="https://arxiv.org/abs/2401.04437">arXiv</a>]  
 * [2022] <strong>YeongHyeon Park</strong>. <strong>"Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model"</strong> [<a href="https://arxiv.org/abs/2201.05748">arXiv</a>]  

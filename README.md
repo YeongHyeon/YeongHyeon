@@ -10,6 +10,8 @@
   <a href="https://scholar.google.com/citations?hl=en&user=cZq6j0MAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
+</p>
+<p>
   <a href="https://github.com/YeongHyeon">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github">
   </a>
@@ -19,7 +21,8 @@
   <a href="https://www.linkedin.com/in/yeonghyeon-park-25aa97138/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
-</p> 
+</p>
+      
 
 <details>
   <summary>Papers</summary>  

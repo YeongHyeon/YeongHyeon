@@ -25,13 +25,11 @@
 #### International Journal
 + Visual Defect Obfuscation Based Self-Supervised Anomaly Detection  
     <ins>YeongHyeon Park</ins>, Sungho Kang, Myung Jin Kim, Yeonho Lee, Hyeong Seok Kim, Juneho Yi  
-    *Scientific Reports*, 2024  
-    <img src="https://img.shields.io/badge/Q1-D83B01?style=for-the-badge&logoColor=white" alt="Q1">  
+    *Scientific Reports (<span style="color:red">Q1</span>)*, 2024  
     [[paper]](https://www.nature.com/articles/s41598-024-69698-5) [[poster]](https://yeonghyeon.github.io/pdfs/SciRep2024_Park-EAR.pdf)  
 + Boost-up Efficiency of Defective Solar Panel Detection with Pre-trained Attention Recycling  
     <ins>YeongHyeon Park</ins>, Myung Jin Kim, Uju Gim, Juneho Yi  
-    *IEEE Transactions on Industry Applications*, 2023  
-    <img src="https://img.shields.io/badge/Q1-D83B01?style=for-the-badge&logoColor=white" alt="Q1">  
+    *IEEE Transactions on Industry Applications (<span style="color:red">Q1</span>)*, 2023  
     [[paper]](https://ieeexplore.ieee.org/document/10065567) [[slide]](https://yeonghyeon.github.io/pdfs/TIA2023_Park-Solar.pdf)  
   
 #### International Conference

@@ -1,7 +1,9 @@
-<p>&nbsp;
+<!-- <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=yeonghyeon&show_icons=true" alt="stat" />
-<!--   <img src="https://streak-stats.demolab.com/?user=YeongHyeon" alt="stat" /> -->
-</p> 
+  <img src="https://streak-stats.demolab.com/?user=YeongHyeon" alt="stat" />
+</p>  -->
+
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YeongHyeon&show_icons=true&theme=default)
   
 <p>
   <a href="https://yeonghyeon.github.io/resume/CV_YeongHyeon.pdf">
